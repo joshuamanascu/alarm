@@ -13,6 +13,8 @@ chmod+x alarm.sh
 ```
 
 ## Usage
+The script requires an mp3 for the alarm sound, and assumes this is located at $HOME/alarm.mp3
+
 ```
 ./alarm.sh -h
 FORMAT: alarm [minutes] 
